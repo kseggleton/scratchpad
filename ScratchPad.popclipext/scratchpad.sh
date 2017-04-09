@@ -1,0 +1,1 @@
+echo "* $POPCLIP_TEXT  " >> "/Users/Path-to-scratchpad/Scratchpad.md"
